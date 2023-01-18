@@ -1,4 +1,4 @@
-#GPT-3 Meta Data Discovery
+# GPT-3 Meta Data Discovery
 
 This repo contains some analysis for using GPT-3 to predict meta data tags on humanitarian data.
 
